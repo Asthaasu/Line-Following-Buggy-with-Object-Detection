@@ -1,5 +1,3 @@
-# Line Following Buggy with Object Detection
-
 ## 📌 Overview
 This project is a robotics-based autonomous vehicle capable of following a black line on the ground while detecting and responding to obstacles in its path. The system uses sensors for line tracking, a microcontroller for decision-making, and a motor driver for movement control. The object detection feature ensures collision avoidance, making the buggy suitable for robotics competitions and automation applications.
 
