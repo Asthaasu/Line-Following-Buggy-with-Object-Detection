@@ -20,8 +20,3 @@ This project is a robotics-based autonomous vehicle capable of following a black
 2. The microcontroller processes sensor data to adjust motor speeds.
 3. Ultrasonic sensor checks for obstacles ahead.
 4. If an object is detected within the threshold distance, the buggy stops until the path is clear.
-
-## 🚀 Future Improvements
-- Adding PID control for smoother line tracking.
-- Implementing Bluetooth/WiFi control modes.
-- Adding camera-based object recognition.
